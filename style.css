@@ -1,25 +1,21 @@
 body {
-    background-color: orange;
+	background-color: orange;
 }
-
-
-.purple{
-    background-color: purple;
+.purple {
+	background-color: purple;
 }
-
-#black{
-    background-color: black;
+#black {
+	background-color: black;
 }
-
-section{
-
-    text-align: center;
+section {
+	text-align: center;
 }
-
-#white{
-    background-color: white;
+#white {
+	background-color: white;
 }
-
-.yellow{
-    background-color: brown;
+.yellow {
+	background-color: brown;
+}
+#yellow {
+	background-color: aqua;
 }
